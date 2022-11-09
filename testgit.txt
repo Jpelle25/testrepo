@@ -1,1 +1,2 @@
 test one
+After reset and force head to changes
